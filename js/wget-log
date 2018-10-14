@@ -1,0 +1,11 @@
+--2018-10-14 23:27:29--  https://xpragit.weebly.com/gdpr/gdprscript.js?buildTime=1539292310
+Resolving xpragit.weebly.com (xpragit.weebly.com)... 199.34.228.53, 199.34.228.54
+Connecting to xpragit.weebly.com (xpragit.weebly.com)|199.34.228.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/javascript]
+Saving to: ‘gdprscript.js?buildTime=1539292310’
+
+           gdprscript.     [<=>                       ]       0  --.-KB/s               gdprscript.js?buildTim     [ <=>                      ]   8.76K  --.-KB/s    in 0.02s   
+
+2018-10-14 23:27:30 (556 KB/s) - ‘gdprscript.js?buildTime=1539292310’ saved [8972]
+
